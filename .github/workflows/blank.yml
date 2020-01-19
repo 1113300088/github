@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8"> 
+	<title>我的个人网页</title>
+	<link rel="stylesheet" href="css/style.css" >
+</head>
+<body>
+	<div class="header"><!--头部-->
+		<div class="top">
+			<div class="logo">
+            	<img src="images/logo.jpg">我的个人网站
+            </div>
+			<div class="search">
+				<input type="text" class="text" />
+				<input type="button" class="button" value="搜索"/>
+			</div>			
+		</div>
+		<div class="nav">
+			<ul>
+				<li><a href="index.html">我的主页</a></li>
+				<li><a href="daxue.html">我的大学</a></li>
+				<li><a href="jiaxiang.html">我的家乡</a></li>
+				<li><a href="xiangce.html">我的相册</a></li>
+                <li><a href="yinyue.html">音乐中心</a></li>
+				<li><a href="liuyan.html">给我留言</a></li>
+			</ul>
+		</div>
+	</div>
+    <div class="banner"><!--我的个人网站-->
+    	<img src="images/banner.jpg">
+    </div>
+    <div class="jianjie"><!--个人简介-->
+        <div class="text">
+			<div class="title">个人简介</div>
+            <p>
+            	  我叫申帅，是中国矿业大学电力学院电气工程与自动化专业18-12班的一名学生（学号：06182195），来自宁夏一个神秘
+而美丽的小城市-中卫。从小生长在温馨和谐的家庭，父母恩爱、家庭和睦、努力、勇敢、勤奋、向上。平常喜欢安静，不喜欢和朋友
+、出去逛街、喜欢散步、读书、享受美食、不喜欢太懒散的生活节奏。生活中我是一个比较简单、单调内敛的人，爱在自习室刻苦钻研
+学习，或者偶尔和朋友谈谈心，亦或是“吾日三省吾身”，静静的思考自己存在的问题，从而不断修正自己，畅想美好的未来时光。
+                
+                  时间过得飞快，不经意间我们已经步入大二的生活。学业压力的增大、内向的性格会让我有时候略自闭，会纠结自己到底喜
+欢什么不喜欢什么，也会怀疑反问到底自己的选择是不是正确，有时候容易陷入纠结中不能自拔，矛盾而倔强。这就是我，一个平凡而
+不平庸的我，简单却积极乐观，努力到感动自己。
+            </p>                  
+        </div>
+        <div class="pic">
+        	<img src="images/jianjie1.jpg" class="pic1">
+            <img src="images/jianjie2.jpg" class="pic2">
+            <img src="images/jianjie3.jpg" class="pic3">
+        </div>  
+    </div>
+	<div class="footer">
+		<p>我的个人网页</p>
+	</div>
+</body>
+</html>
+
